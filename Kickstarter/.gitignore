@@ -1,0 +1,10 @@
+/node_modules
+/ethereum/build
+/.next
+bundle.js
+npm-debug.log
+.DS_Store
+
+# IntelliJ
+*.iml
+/.idea
